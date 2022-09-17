@@ -1,0 +1,64 @@
+.container {
+
+    width: 1000px;
+    margin: 0 auto 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.content {
+
+    margin: 3px auto 0;
+    width: 1000px;
+    float: left;
+
+}
+
+img {
+    margin: 0.1% 32% 0;
+
+}
+
+.kutu1 {
+
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: center;
+
+
+}
+
+.kutu2 {
+    background-color: #7EE5DA;
+    width: 350px;
+    padding: 14px;
+    margin-right: 0.2%;
+    float: left;
+    text-align: center;
+    height: 68px;
+}
+
+.kutu3 {
+    background-color: #70CCC2;
+    padding: 13px;
+    margin-right: 0.2%;
+    float: left;
+    text-align: center;
+    height: 70px;
+    width: 165px;
+    font-size: small;
+
+}
+
+.kutu4 {
+    background-color: #62B3AA;
+    padding: 13px;
+    width: 40%;
+    float: left;
+    height: 70px;
+    text-align: center;
+
+}
